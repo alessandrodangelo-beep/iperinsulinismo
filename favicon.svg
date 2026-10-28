@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<title>Palloncino giallo — Vivere con C.H.I.</title>
+<path d="M32 47c-1 5-3 8-3 12" fill="none" stroke="#102c4d" stroke-width="3.7" stroke-linecap="round"/>
+<path d="M31 47l-4 5h8z" fill="#f4a900" stroke="#102c4d" stroke-width="2" stroke-linejoin="round"/>
+<path d="M32 4C19 4 12 15 12 28c0 12 9 20 20 20s20-8 20-20C52 15 45 4 32 4z" fill="#ffcd10" stroke="#102c4d" stroke-width="3.5"/>
+<path d="M22 15c-4 4-5 9-5 14" fill="none" stroke="#fffdf4" stroke-width="5" stroke-linecap="round"/>
+</svg>
