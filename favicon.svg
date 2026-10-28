@@ -1,7 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-<title>Palloncino giallo — Vivere con C.H.I.</title>
-<path d="M32 47c-1 5-3 8-3 12" fill="none" stroke="#102c4d" stroke-width="3.7" stroke-linecap="round"/>
-<path d="M31 47l-4 5h8z" fill="#f4a900" stroke="#102c4d" stroke-width="2" stroke-linejoin="round"/>
-<path d="M32 4C19 4 12 15 12 28c0 12 9 20 20 20s20-8 20-20C52 15 45 4 32 4z" fill="#ffcd10" stroke="#102c4d" stroke-width="3.5"/>
-<path d="M22 15c-4 4-5 9-5 14" fill="none" stroke="#fffdf4" stroke-width="5" stroke-linecap="round"/>
+<title>Vivere con C.H.I. — due palloncini</title>
+<rect width="64" height="64" rx="11" fill="#fff7e9"/>
+<g fill="none" stroke="#102c4d" stroke-width="4" stroke-linecap="round">
+<path d="M20 37 C19 45 27 47 26 59"/>
+<path d="M45 36 C44 45 36 48 37 59"/>
+</g>
+<path d="M20 34l-4 6h8z" fill="#ea1550" stroke="#102c4d" stroke-width="2"/>
+<path d="M45 34l-4 6h8z" fill="#f6b900" stroke="#102c4d" stroke-width="2"/>
+<path d="M20 5C11 5 6 14 6 23s6 15 14 15 14-6 14-15S29 5 20 5z" fill="#ed1650" stroke="#102c4d" stroke-width="2.6"/>
+<path d="M45 5c-9 0-14 9-14 18s6 15 14 15 14-6 14-15S54 5 45 5z" fill="#ffc916" stroke="#102c4d" stroke-width="2.6"/>
+<path d="M13 14c-2 2-3 5-3 8M38 14c-2 2-3 5-3 8" stroke="#fffdf4" stroke-width="3.6" fill="none" stroke-linecap="round"/>
 </svg>
